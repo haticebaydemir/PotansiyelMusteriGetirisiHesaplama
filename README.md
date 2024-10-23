@@ -1,4 +1,3 @@
-# PotansiyelMusteriGetirisiHesaplama
 # Gezinomi Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama
 
 ## Proje Hakkında
